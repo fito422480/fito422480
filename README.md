@@ -7,7 +7,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, VB.net, Kotlin, Swift],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, VB.net, Flutter],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
@@ -15,12 +15,12 @@ const aboutMe = {
       },
       backEnd: {
          java: ["Spring"],         
-         js: ["Node", "Express"],
+         js: ["Node", "Express", React],
          csharp: ["Asp.net Core"],
          vb: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress", "Cucumber"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer", "ORACLE", "PostgreSQL"],
+      databases: ["MongoDB", "MySQL", "SQLServer", "ORACLE", "PostgreSQL"],
       mobile: ["Android", "IOS"]
    },
    currentOccupation: ["Open for job opportunities"],
