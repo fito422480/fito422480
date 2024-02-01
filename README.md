@@ -15,13 +15,13 @@ const aboutMe = {
       },
       backEnd: {
          java: ["Spring"],         
-         js: ["Node", "Express", "Ract"],
+         js: ["Node", "Express", "React"],
          csharp: ["Asp.net Core"],
          vb: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress", "Cucumber"]
+         misc: ["Bash", "Zsh", "Puppeteer", "Selenium", "Cypress", "Cucumber"]
       },
       databases: ["MongoDB", "MySQL", "SQLServer", "ORACLE", "PostgreSQL"],
-      mobile: ["Android", "IOS"]
+      mobile: ["Android", "IOS", "React Native", "Xamarin"]
    },
    currentOccupation: ["Open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
