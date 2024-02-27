@@ -21,7 +21,7 @@ const aboutMe = {
          misc: ["Bash", "Zsh", "Puppeteer", "Selenium", "Cypress", "Cucumber"]
       },
       databases: ["MongoDB", "MySQL", "SQLServer", "ORACLE", "PostgreSQL"],
-      mobile: ["Android", "IOS", "React Native", "Xamarin"]
+      mobile: ["Android", "IOS", "React Native", "Xamarin", "Flutter"]
    },
    currentOccupation: ["Open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
