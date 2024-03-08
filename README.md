@@ -20,7 +20,7 @@ const aboutMe = {
          vb: ["Asp.net Core"],
          misc: ["Bash", "Zsh", "Puppeteer", "Selenium", "Cypress", "Cucumber"]
       },
-      databases: ["MongoDB", "MySQL", "SQLServer", "ORACLE", "PostgreSQL"],
+      databases: ["MongoDB", "MySQL", "SQLServer", "ORACLE", "PostgreSQL", "Firebase"],
       mobile: ["Android", "IOS", "React Native", "Xamarin", "Flutter"]
    },
    currentOccupation: ["Open for job opportunities"],
