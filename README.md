@@ -7,7 +7,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, VB.net],
+   code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "CSharp", "VB.net"],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
@@ -20,8 +20,9 @@ const aboutMe = {
          vb: ["Asp.net Core"],
          misc: ["Bash", "Zsh", "Puppeteer", "Selenium", "Cypress", "Cucumber"]
       },
-      databases: ["MongoDB", "MySQL", "SQLServer", "ORACLE", "PostgreSQL", "Firebase", "DynamoDB"],
-      mobile: ["Android", "IOS", "React Native", "Xamarin", "Flutter"]
+      databases: ["MongoDB", "MySQL", "SQLServer", "ORACLE", "PostgreSQL", "Firebase", "DynamoDB", "Liquibase"],
+      mobile: ["Android", "IOS", "React Native", "Xamarin", "Flutter"],
+      ciCd: ["GitHub Actions", "Jenkins", "GitLab CI/CD", "CircleCI", "Azure Pipelines"]
    },
    currentOccupation: ["Open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
