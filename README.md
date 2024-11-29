@@ -15,7 +15,7 @@ const aboutMe = {
       },
       backEnd: {
          java: ["Spring"],         
-         js: ["Node", "Express", "React"],
+         js: ["Node", "Express", "React", "Next"],
          csharp: ["Asp.net Core"],
          vb: ["Asp.net Core"],
          misc: ["Bash", "Zsh", "Puppeteer", "Selenium", "Cypress", "Cucumber"]
