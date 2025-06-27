@@ -6,26 +6,44 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "CSharp", "VB.net"],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],         
-         js: ["Node", "Express", "React", "Next"],
-         csharp: ["Asp.net Core"],
-         vb: ["Asp.net Core"],
-         misc: ["Bash", "Zsh", "Puppeteer", "Selenium", "Cypress", "Cucumber"]
-      },
-      databases: ["MongoDB", "MySQL", "SQLServer", "ORACLE", "PostgreSQL", "Firebase", "DynamoDB", "Liquibase"],
-      mobile: ["Android", "IOS", "React Native", "Xamarin", "Flutter"],
-      ciCd: ["GitHub Actions", "Jenkins", "GitLab CI/CD", "CircleCI", "Azure Pipelines"]
-   },
-   currentOccupation: ["Open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+  pronouns: ["he", "him"],
+  code: [
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Python",
+    "Java",
+    "C#",
+    "VB.NET"
+  ],
+  technologies: {
+    frontEnd: {
+      frameworks: ["React", "Angular"],
+      uiLibraries: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+    },
+    backEnd: {
+      java: ["Spring"],
+      javascript: ["Node.js", "Express", "React", "Next.js", "NestJS"],
+      csharp: ["ASP.NET Core"],
+      vbnet: ["ASP.NET Core"],
+      tools: ["Bash", "Zsh", "Puppeteer", "Selenium", "Cypress", "Cucumber"]
+    },
+    databases: [
+      "MongoDB",
+      "MySQL",
+      "SQL Server",
+      "Oracle",
+      "PostgreSQL",
+      "Firebase",
+      "DynamoDB",
+      "Liquibase"
+    ],
+    mobile: ["Android", "iOS", "React Native", "Xamarin", "Flutter"],
+    ciCd: ["GitHub Actions", "Jenkins", "GitLab CI/CD", "CircleCI", "Azure Pipelines"]
+  },
+  currentOccupation: "Open to job opportunities",
+  challenge: "Currently training to run a marathon."
 };
 ```
 </br></br>
