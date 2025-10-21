@@ -94,7 +94,7 @@ Aquí te presento un resumen de mis habilidades técnicas, ¡listo para despegar
 ## 💡 About Me
 
 * **Estado Actual:** ✨ Abierto a nuevas oportunidades desafiantes en roles Cloud y Full Stack.
-* **Pronombres:** he/him
+* **Apodo:** FITO
 * **Meta Personal:** 🏃‍♂️ Actualmente entrenando para correr una maratón. ¡Disciplina y resistencia, dentro y fuera del código!
 
 ---
@@ -115,6 +115,6 @@ Aquí te presento un resumen de mis habilidades técnicas, ¡listo para despegar
     <img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://github.com/tu-usuario-github" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-tu_usuario-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/Fito422480?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
