@@ -16,7 +16,7 @@
 
 ## 🎓 Formación Académica
 
-**Licenciado en Análisis de Sistemas**  
+**Analista de Sistemas**  
 [Universidad Católica "Nuestra Señora de la Asunción"](https://www.universidadcatolica.edu.py/) • Asunción, Paraguay 🇵🇾
 
 ---
