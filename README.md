@@ -1,66 +1,90 @@
-# 👋 Hi there, I'm Adolfo Ayala  
+# 👋 Hi there, I'm Adolfo Ayala
 
-🎓 **Bachelor in Systems Analysis** from [Universidad Católica “Nuestra Señora de la Asunción”](https://www.universidadcatolica.edu.py/)  
-💼 **Software Engineer** | **Full Stack Developer** | **Cloud Architect (AWS)**  
-🚀 Passionate about building scalable systems, cloud automation, and clean code.  
+🎓 **Licenciado en Análisis de Sistemas** | [Universidad Católica “Nuestra Señora de la Asunción”](https://www.universidadcatolica.edu.py/)
+💼 **Software Engineer** | **Full Stack Developer** | **Cloud Architect (AWS)**
+🚀 Apasionado por construir sistemas escalables, la automatización en la nube y el código limpio.
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 
 ```javascript
 const aboutMe = {
-  pronouns: ["he", "him"],
-  code: [
+  pronouns: "he/him",
+  education: "Bachelor in Systems Analysis",
+  roles: ["Software Engineer", "Full Stack Developer", "Cloud Architect (AWS)"],
+  languages: [
     "JavaScript",
     "TypeScript",
-    "HTML",
-    "CSS",
     "Python",
     "Java",
     "C#",
-    "VB.NET"
+    ".NET (VB/C#)"
   ],
   technologies: {
     frontEnd: {
-      frameworks: ["React", "Angular"],
+      frameworks: ["React", "Angular", "Next.js"],
       uiLibraries: [
-        "Materialize",
-        "Bulma",
+        "Material UI",
         "Bootstrap",
-        "Material Design",
+        "Bulma",
         "Semantic UI"
       ]
     },
     backEnd: {
-      java: ["Spring"],
-      javascript: ["Node.js", "Express", "Next.js", "NestJS"],
-      csharp: ["ASP.NET Core"],
-      vbnet: ["ASP.NET Core"],
-      tools: ["Bash", "Zsh", "Puppeteer", "Selenium", "Cypress", "Cucumber"]
+      frameworks: [
+        "Node.js",
+        "Express",
+        "NestJS",
+        "Spring Boot",
+        "ASP.NET Core"
+      ]
     },
-    databases: [
-      "MongoDB",
-      "MySQL",
-      "SQL Server",
-      "Oracle",
-      "PostgreSQL",
-      "Firebase",
-      "DynamoDB",
-      "Liquibase"
-    ],
-    mobile: ["Android", "iOS", "React Native", "Xamarin", "Flutter"],
-    ciCd: ["GitHub Actions", "Jenkins", "GitLab CI/CD", "CircleCI", "Azure Pipelines"],
+    mobile: ["React Native", "Flutter", "Xamarin", "Android (Native)", "iOS (Native)"],
+    databases: {
+      sql: ["PostgreSQL", "MySQL", "SQL Server", "Oracle"],
+      noSql: ["MongoDB", "DynamoDB", "Firebase (Firestore/Realtime)"],
+      tools: ["Liquibase"]
+    },
     cloud: {
-      aws: [
-        "Lambda",
+      aws: [ 
+        "EC2",
         "S3",
+        "Lambda",
+        "RDS",
+        "DynamoDB",
+        "VPC",
+        "IAM",
+        "CloudWatch",
         "Step Functions",
-        "CloudFormation"
+        "EventBridge",
+        "API Gateway",
+        "CloudFormation",
+        "Cognito"
+      ]
+    },
+    devOps: {
+      ciCd: [
+        "GitHub Actions",
+        "GitLab CI/CD",
+        "Jenkins",
+        "CircleCI",
+        "Azure Pipelines"
       ],
-      infrastructureAsCode: ["Terraform"]
-    }
+      infrastructureAsCode: ["Terraform", "AWS CloudFormation"],
+      containers: ["Docker", "Kubernetes (K8s)"]
+    },
+    testing: [
+      "Cypress",
+      "Selenium",
+      "Cucumber",
+      "Jest", 
+      "Puppeteer"
+    ],
+    otherTools: ["Git", "Bash", "Zsh"]
   },
-  currentOccupation: "Open to job opportunities",
-  challenge: "Currently training to run a marathon."
+  currentStatus: {
+    availability: "Open to new opportunities in Cloud and Full Stack roles",
+    personalGoal: "Currently training to run a marathon."
+  }
 };
