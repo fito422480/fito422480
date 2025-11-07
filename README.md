@@ -22,7 +22,7 @@
 
 ## Sobre mí
 
-Arquitecto soluciones que combinan **backend sólido, front moderno y automatización en AWS**.
+Desarrollo soluciones que combinan **backend sólido, front moderno y automatización en AWS**.
 
 -  Me especializo en **arquitectura escalable y CI/CD automation**
 -  Experiencia en **AWS (serverless, infraestructura como código, microservicios)**
