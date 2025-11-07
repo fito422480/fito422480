@@ -92,7 +92,7 @@ Arquitecto soluciones que combinan **backend sólido, front moderno y automatiza
 </p>
 
 <p align="center">
-  <em>Siempre abierto a charlar sobre tecnología, arquitectura cloud o running 🏃‍♂️</em>
+  <em>Siempre abierto a charlar sobre tecnología, arquitectura cloud o juegos RPG</em>
 </p>
 
 ---
