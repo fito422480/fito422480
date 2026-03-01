@@ -77,8 +77,8 @@ Desarrollo soluciones que combinan **backend sólido, front moderno y automatiza
 ##  GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fito422480&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fito422480&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fito422480&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fito422480&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </div>
 
 ---
